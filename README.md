@@ -9,14 +9,14 @@ Download the latest release for your platform from the [Releases](../../releases
 ### macOS (Apple Silicon)
 
 ```sh
-curl -L https://github.com/<your-org>/LocoDownloader/releases/latest/download/loco-<VERSION>-macos-arm.tar.gz | tar xz
+curl -L https://github.com/cdebortoli/LocoDownloader/releases/latest/download/loco-<VERSION>-macos-arm.tar.gz | tar xz
 sudo sh install/install.sh
 ```
 
 ### Linux (x86-64)
 
 ```sh
-curl -L https://github.com/<your-org>/LocoDownloader/releases/latest/download/loco-<VERSION>-linux-x86.tar.gz | tar xz
+curl -L https://github.com/cdebortoli/LocoDownloader/releases/latest/download/loco-<VERSION>-linux-x86.tar.gz | tar xz
 sudo sh install/install.sh
 ```
 
